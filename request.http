@@ -1,0 +1,6 @@
+POST http://localhost:1337/auth/local
+
+{
+    "identifier": "komenan.komenan@uvci.edu.ci",
+    "password": "komenaN225#"
+}
